@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/NetProtocol/netprotocol.h
+SYNCQT.HEADER_CLASSES = ../../include/NetProtocol/NetProtocol
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 

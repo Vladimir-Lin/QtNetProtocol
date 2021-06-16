@@ -1,0 +1,16 @@
+SOURCES += $${PWD}/nXmlCursor.cpp
+SOURCES += $${PWD}/nXmlVisitor.cpp
+SOURCES += $${PWD}/nXmlBase.cpp
+SOURCES += $${PWD}/nXmlParsing.cpp
+SOURCES += $${PWD}/nXmlAttribute.cpp
+SOURCES += $${PWD}/nXmlAttributeSet.cpp
+SOURCES += $${PWD}/nXmlNode.cpp
+SOURCES += $${PWD}/nXmlElement.cpp
+SOURCES += $${PWD}/nXmlComment.cpp
+SOURCES += $${PWD}/nXmlText.cpp
+SOURCES += $${PWD}/nXmlDeclaration.cpp
+SOURCES += $${PWD}/nXmlUnknown.cpp
+SOURCES += $${PWD}/nXmlDocument.cpp
+SOURCES += $${PWD}/nXmlHandle.cpp
+SOURCES += $${PWD}/nXmlParser.cpp
+SOURCES += $${PWD}/nScriptableXml.cpp

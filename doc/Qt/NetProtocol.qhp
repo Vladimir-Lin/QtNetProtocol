@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.netprotocol</namespace>
+    <virtualFolder>NetProtocol</virtualFolder>
+    <customFilter name="CIOS Network Protocol 1.6.0">
+        <filterAttribute>CIOS Network Protocol</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>CIOS Network Protocol</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="CIOS Network Protocol Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Network Protocol" id="CIOS::NetProtocol" ref="index.html"/>
+            <keyword name="Network Protocol（正體中文）" id="CIOS::NetProtocol::TW" ref="tw/index.html"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>tw/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
